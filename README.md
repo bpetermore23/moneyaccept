@@ -1,0 +1,2 @@
+# moneyaccept
+Acceptor
